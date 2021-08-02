@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
+
 **Febrianto752/Febrianto752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Febrianto**.\
+
+Saya seorang **Mahasiswa** di [Universitas Bhayangkara Jakarta Raya](https://ubharajaya.ac.id/).\
+
+Saya sekarang sedang belajar mendalami profesi seorang full-stack web developer, walaupun masih newbie tetapi tetap harus semangat karena perjalanan hidup masih panjang ok 👍.
