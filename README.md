@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Febrianto**.\
+Perkenalkan nama saya **Febrianto**
 
-Saya seorang **Mahasiswa** di [Universitas Bhayangkara Jakarta Raya](https://ubharajaya.ac.id/).\
+Saya seorang **Mahasiswa** di [Universitas Bhayangkara Jakarta Raya](https://ubharajaya.ac.id/)
 
 Saya sekarang sedang belajar mendalami profesi seorang full-stack web developer, walaupun masih newbie tetapi tetap harus semangat karena perjalanan hidup masih panjang ok 👍.
